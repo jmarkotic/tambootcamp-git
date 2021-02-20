@@ -5,7 +5,7 @@
 # add a third comment
 # add 4th comment
 # add dev2 4th comment
-# add comment from vscode new
+# add comment from vscode new2S
 # file:  hello-world.go
 # description:  my very first go program
 
